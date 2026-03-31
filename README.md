@@ -49,12 +49,23 @@ curl -X POST http://localhost:8080/api/chat/query \
 
 ## 📚 Documentation
 
+### Learning Path (Progressive)
+
 Learn the system progressively from basics to advanced:
 
 1. **[Part 1: Basics](./demo/docs/01-BASICS.md)** - Start here! Understand what RAG is and how the system works
 2. **[Part 2: Intermediate](./demo/docs/02-INTERMEDIATE.md)** - Learn about async processing, caching, and resilience patterns
 3. **[Part 3: Advanced](./demo/docs/03-ADVANCED.md)** - Deep dive into vector search, performance optimization, and scaling
 4. **[Part 4: Reference](./demo/docs/04-REFERENCE.md)** - Quick reference for APIs, configuration, and troubleshooting
+
+### Project Structure
+
+**[Project Structure Guide](./demo/docs/PROJECT_STRUCTURE.md)** - Complete reference explaining every folder and file in the project, including:
+- Directory organization and purpose
+- Java package breakdown (config, controller, service, repository, etc.)
+- Configuration files and their roles
+- Architectural patterns and naming conventions
+- Quick navigation guide for common tasks
 
 ## ✨ Key Features
 
