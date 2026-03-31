@@ -1,0 +1,12 @@
+# IDE and AI Assistant Folders
+.kiro/
+.claude/
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
