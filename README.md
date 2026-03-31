@@ -272,9 +272,7 @@ This project is licensed under the MIT License.
 
 ## 📞 Support
 
-- Documentation: [docs/](./docs/)
-- Issues: [GitHub Issues](https://github.com/yourusername/pdf-rag-chatbot/issues)
-- Email: support@example.com
+- Documentation: [docs/](./demo/docs/)
 
 ---
 
