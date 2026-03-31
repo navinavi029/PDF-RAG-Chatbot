@@ -32,6 +32,10 @@ build/
 ### VS Code ###
 .vscode/
 
+### IDE and AI Assistant Folders ###
+.kiro/
+.claude/
+
 ### pgvector binaries ###
 vector.v0.8.2-pg18/
 
